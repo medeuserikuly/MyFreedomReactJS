@@ -1,0 +1,16 @@
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    width: 150px;
+}
+.header__ul {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.header__ul li {
+    font-size: 28px;
+}

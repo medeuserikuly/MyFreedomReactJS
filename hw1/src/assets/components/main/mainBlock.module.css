@@ -1,0 +1,21 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.title {
+    margin-top: 20px;
+}
+.text {
+    margin-top: 10px;
+    text-align: justify;
+
+}
+.btn {
+    display: block;
+    margin-top: 10px;
+    width: 80%;
+    height: 30px;
+    cursor: pointer;
+}
