@@ -11,6 +11,7 @@ const Header = () => {
                 <Nav className="me-auto">
                     <Nav.Link onClick={() => navigate('/')}>Home</Nav.Link>
                     <Nav.Link onClick={() => navigate('/users')}>Users</Nav.Link>
+                    <Nav.Link onClick={() => navigate('/hw6')}>Homework 6</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>
